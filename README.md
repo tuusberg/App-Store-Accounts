@@ -8,7 +8,7 @@ For this to work you need a jailbroken iOS device.
 * install openssh and wget from Cydia
 * ssh into your device 
 
-**default ssh password is 'alpine'. I strongly recommend you to change the dafault password.**
+  **default ssh password is 'alpine'. I strongly recommend you to change the dafault password.**
 * install python and pip by invoking:
 ```
 wget http://yangapp.googlecode.com/svn/debs/python_2.7.6-3_iphoneos-arm.deb && \
