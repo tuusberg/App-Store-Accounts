@@ -2,6 +2,30 @@
 
 This script reads App Store authentication data that can be used for different purposes.
 
+Example:
+```
+AccountServiceTypes: 0
+AccountPaidPurchasesPasswordSetting: 2
+AccountSocialEnabled: False
+AccountFreeDownloadsPasswordSetting: 3
+AccountIsNewCustomer: False
+AccountURLBagType: production
+FirstName: John
+LastName: Doe
+DownloaderID: 0
+AccountStoreFront: 143444,29 ab:9JWkzWf1
+PurchaserID: 12176452568
+AccountAvailableServiceTypes: 0
+AccountSource: device
+DidFallbackToPassword: False
+AccountKind: 0
+FamilyID: 0
+AppleID: john.doe@gmail.com
+CreditDisplayString: 
+DSPersonID: 1122334455667
+```
+
+
 ## Installation
 For this to work you need a jailbroken iOS device.
 
