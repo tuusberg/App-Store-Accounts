@@ -29,7 +29,7 @@ DSPersonID: 1122334455667
 ## Installation
 For this to work you need a jailbroken iOS device.
 
-* install openssh and wget from Cydia
+* install `openssh` and `wget` from Cydia
 * ssh into your device 
 
   **default ssh password is 'alpine'. I strongly recommend you to change the default password.**
